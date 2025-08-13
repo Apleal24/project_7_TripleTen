@@ -1,5 +1,7 @@
 # project_7_TripleTen
 
+https://project-7-tripleten.onrender.com
+
 Descripción del Proyecto
 Este proyecto consiste en el desarrollo de una aplicación web interactiva utilizando la librería Streamlit en Python. El objetivo principal es realizar un análisis exploratorio de datos (EDA) sobre un conjunto de datos de anuncios de venta de coches (vehicles_us.csv). La aplicación permite a los usuarios interactuar con los datos a través de visualizaciones dinámicas, facilitando la comprensión de las características de los vehículos y sus precios.
 
